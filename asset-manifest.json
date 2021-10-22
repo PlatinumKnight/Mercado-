@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Mercado-/static/css/main.70b299db.chunk.css",
-    "main.js": "/Mercado-/static/js/main.b8789153.chunk.js",
-    "main.js.map": "/Mercado-/static/js/main.b8789153.chunk.js.map",
+    "main.js": "/Mercado-/static/js/main.9a527ea4.chunk.js",
+    "main.js.map": "/Mercado-/static/js/main.9a527ea4.chunk.js.map",
     "runtime-main.js": "/Mercado-/static/js/runtime-main.c6d1e2c0.js",
     "runtime-main.js.map": "/Mercado-/static/js/runtime-main.c6d1e2c0.js.map",
     "static/js/2.7e28491f.chunk.js": "/Mercado-/static/js/2.7e28491f.chunk.js",
@@ -16,6 +16,6 @@
     "static/js/runtime-main.c6d1e2c0.js",
     "static/js/2.7e28491f.chunk.js",
     "static/css/main.70b299db.chunk.css",
-    "static/js/main.b8789153.chunk.js"
+    "static/js/main.9a527ea4.chunk.js"
   ]
 }

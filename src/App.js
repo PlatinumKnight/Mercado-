@@ -114,7 +114,6 @@ class App extends Component {
   };
 
   render() {
-    var ListaPrin = this.state.carrito.sort((a, b) => a.codigo - b.codigo);
     return (
       <div className="App">
         <Header />
@@ -125,7 +124,7 @@ class App extends Component {
           />
 
           <Listado
-            lista={ListaPrin}
+            lista={this.state.carrito}
             eliminar={this.eliminar}
             total={this.state.total}
             eliminarCarrito={this.eliminarCarrito}
